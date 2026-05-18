@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754346873724",
+    "project_id": "mindmatrix-project-72756",
+    "storage_bucket": "mindmatrix-project-72756.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754346873724:android:5635ba588b53ac73408af9",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754346873724-710jh6p767ebr3churmohm55o0cq350b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "d0746c61882df712632374c4ec0b16b59c874ff9"
+          }
+        },
+        {
+          "client_id": "754346873724-1cavdan2kgvisd6p22cdeidu8mmav0jh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByRkKLQuQBjy6CrQYo6x9kLgp4WJtkfFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754346873724-1cavdan2kgvisd6p22cdeidu8mmav0jh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
